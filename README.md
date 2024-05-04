@@ -24,12 +24,12 @@ CREATE ANY FOLDER FIRST
 
 11) enter below cammand to insert manager details
 
-INSERT INTO users(name,email,phone,password,role,currentStatus) VALUES("BHUSHAN","bhushan@gmail.com","9644068044","$2a$04$6gEuoQpnrbGYXyJUU80A2OH5GW96NbB88SfSS9G0qnK7kzWczwb4G","manager", "Enabled"); 
+INSERT INTO users(name,email,phone,password,role,currentStatus) VALUES("Abhishek","abhishek@gmail.com","9985632124","$2a$04$6gEuoQpnrbGYXyJUU80A2OH5GW96NbB88SfSS9G0qnK7kzWczwb4G","manager", "Enabled"); 
 
 12) http://localhost:3000/  enter in browser
 
 13) enter below datails to login as a manager
 
-email:-bhushan@gmail.com
+email:-abhishek@gmail.com
 pass:- 12345
 
